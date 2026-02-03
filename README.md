@@ -1,2 +1,0 @@
-# 70-birthday
-connections
